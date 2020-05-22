@@ -1,4 +1,4 @@
-six~=1.11.0
+six~=1.15.0
 chevron~=0.12
 click~=6.7
 enum34~=1.1.6; python_version<"3.4"
